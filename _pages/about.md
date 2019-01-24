@@ -1,8 +1,9 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "about pasge"
 last_modified_at: 2019-01-23T14:49:33-05:00
+layout: single
 toc: true
 ---
 about me
