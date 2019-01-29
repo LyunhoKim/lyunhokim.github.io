@@ -4,9 +4,9 @@ main:
     url: https://lyunhokim.github.io/about/
     description: "About me"
   - title: "Switft"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://lyunhokim.github.io/posts/
   - title: "iOS"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://lyunhokim.github.io/swift/
   - title: "etc"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "review"
