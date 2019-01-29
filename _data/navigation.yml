@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "About"
-    url: https://lyunhokim.github.io/about/
+    url: /about/
     description: "About me"
   - title: "Switft"
-    url: https://lyunhokim.github.io/posts/
+    url: /posts/
   - title: "iOS"
-    url: https://lyunhokim.github.io/swift/
+    url: /swift/
   - title: "etc"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "review"
