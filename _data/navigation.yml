@@ -4,10 +4,10 @@ main:
     url: /about/
     description: "About me"
   - title: "Switft"
-    url: /posts/
+    url: /year-archive/
   - title: "iOS"
-    url: /swift/
+    url: /categories/
   - title: "etc"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /collection-archive/
   - title: "review"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
