@@ -4,7 +4,7 @@ title: "hello world"
 excerpt: ""
 last_modified_at: 2019-01-23T14:49:33-05:00
 layout: posts
-category: swift
+categories: swift
 tag: helloworld
 toc: true
 ---

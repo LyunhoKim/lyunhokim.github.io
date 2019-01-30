@@ -3,11 +3,7 @@ main:
   - title: "About"
     url: /about/
     description: "About me"
-  - title: "Switft"
+  - title: "Posts"
     url: /year-archive/
-  - title: "iOS"
-    url: /categories/
-  - title: "etc"
-    url: /collection-archive/
-  - title: "review"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Archive"
+    url: /categories/  
