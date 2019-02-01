@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Lyunho Kim"
   avatar           : "/assets/images/avatar_seven_systers.jpg"
-  bio              : "개발을 하며 기록을 하기 위한 공간입니다. 주로 Swift를 이용해서 iOS 기반의 Application을 개발하고 있습니다."
+  bio              : "개발을 하며 얻은 것을 축적하기 공간입니다. 주로 Swift를 이용해서 iOS 기반의 Application을 개발하고 있습니다."
   location         : "Seoul, Korea"
   email            : "kimlh2@gmail.com"
   links:
