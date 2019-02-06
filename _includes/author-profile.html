@@ -10,7 +10,7 @@
       {% else %}
         {% assign author_src = author.avatar | relative_url %}
       {% endif %}
-      <a href="https://goo.gl/maps/ZyBy79jMdjv" style="color: rgb(107, 110, 107)"><i>@Seven Sisters</i></a>
+      
 
       {% if author.home %}
         {% if author.home contains "://" %}
@@ -21,8 +21,10 @@
         <a href="{{ author_link }}">
           <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
         </a>
+        <a href="https://goo.gl/maps/ZyBy79jMdjv" style="color: rgb(107, 110, 107);font-size: 15px"><i>@Seven Sisters</i></a>
       {% else %}
         <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+        <a href="https://goo.gl/maps/ZyBy79jMdjv" style="color: rgb(107, 110, 107);font-size: 15px"><i>@Seven Sisters</i></a>
       {% endif %}
     </div>
   {% endif %}
