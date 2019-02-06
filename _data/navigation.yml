@@ -1,6 +1,7 @@
 # main links
 main:
   - title: "About"
+<<<<<<< HEAD
     url: /_pages/about.md
   - title: "Switft"
     url: /categories/
@@ -20,3 +21,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+=======
+    url: /about/
+    description: "About me"
+  - title: "Archive"
+    url: /posts/
+  #  title: "Archive"
+  #  url: /categories/  
+>>>>>>> afb3e439b0e493567f4ca2f77500dd3af5417611
