@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /_pages/about.md
   - title: "Switft"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /categories/
   - title: "iOS"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "etc"
